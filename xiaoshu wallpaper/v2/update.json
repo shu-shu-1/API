@@ -1,0 +1,18 @@
+{
+    "update_channels": {
+      "Stable": 
+        {         
+          "version": "5.1.0",
+          "download_link": "https://github.com/shu-shu-1/Xiaoshu-Wallpaper/releases/download/5/xiaoshu.wallpaper.5.1.windows.x64.setup.exe",
+          "file_format": "exe",
+          "update_content": "Bug fixes and performance improvements."
+        },
+      "Dev": 
+      {
+        "version": "v6.0.0-beta.2",
+        "download_link": "https://github.com/shu-shu-1/Xiaoshu-Wallpaper/releases/download/6b2/xiaoshu.wallpaper.v6.0.0-beta.2.windows.x64.zip",
+        "file_format": "zip",
+        "update_content": "Bug fixes and performance improvements."
+      }
+    }
+  }
